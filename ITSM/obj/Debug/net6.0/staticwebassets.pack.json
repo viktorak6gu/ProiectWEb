@@ -1,0 +1,3257 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\js\\home.js",
+      "PackagePath": "staticwebassets\\js\\home.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\DIGESTS.md",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\DIGESTS.md"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\highlight.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\README.md",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\core.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\core.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\core.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\core.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\highlight.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\highlight.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\1c.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\1c.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\abnf.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\abnf.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\accesslog.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\accesslog.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\actionscript.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\actionscript.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\ada.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\ada.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\angelscript.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\angelscript.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\apache.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\apache.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\applescript.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\applescript.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\arcade.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\arcade.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\arduino.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\arduino.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\armasm.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\armasm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\asciidoc.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\asciidoc.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\aspectj.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\aspectj.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\autohotkey.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\autohotkey.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\autoit.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\autoit.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\avrasm.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\avrasm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\awk.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\awk.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\axapta.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\axapta.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\bash.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\bash.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\basic.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\basic.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\bnf.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\bnf.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\brainfuck.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\brainfuck.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\c.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\c.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\cal.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\cal.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\capnproto.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\capnproto.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\ceylon.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\ceylon.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\clean.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\clean.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\clojure-repl.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\clojure-repl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\clojure.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\clojure.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\cmake.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\cmake.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\coffeescript.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\coffeescript.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\coq.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\coq.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\cos.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\cos.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\cpp.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\cpp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\crmsh.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\crmsh.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\crystal.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\crystal.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\csharp.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\csharp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\csp.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\csp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\css.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\css.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\d.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\d.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\dart.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\dart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\delphi.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\delphi.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\diff.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\diff.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\django.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\django.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\dns.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\dns.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\dockerfile.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\dockerfile.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\dos.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\dos.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\dsconfig.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\dsconfig.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\dts.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\dts.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\dust.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\dust.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\ebnf.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\ebnf.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\elixir.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\elixir.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\elm.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\elm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\erb.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\erb.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\erlang-repl.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\erlang-repl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\erlang.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\erlang.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\excel.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\excel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\fix.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\fix.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\flix.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\flix.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\fortran.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\fortran.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\fsharp.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\fsharp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\gams.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\gams.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\gauss.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\gauss.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\gcode.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\gcode.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\gherkin.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\gherkin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\glsl.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\glsl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\gml.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\gml.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\go.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\go.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\golo.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\golo.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\gradle.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\gradle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\graphql.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\graphql.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\groovy.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\groovy.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\haml.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\haml.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\handlebars.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\handlebars.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\haskell.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\haskell.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\haxe.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\haxe.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\hsp.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\hsp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\http.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\http.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\hy.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\hy.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\inform7.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\inform7.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\ini.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\ini.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\irpf90.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\irpf90.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\isbl.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\isbl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\java.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\java.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\javascript.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\javascript.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\jboss-cli.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\jboss-cli.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\json.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\json.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\julia-repl.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\julia-repl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\julia.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\julia.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\kotlin.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\kotlin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\lasso.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\lasso.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\latex.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\latex.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\ldif.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\ldif.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\leaf.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\leaf.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\less.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\less.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\lisp.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\lisp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\livecodeserver.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\livecodeserver.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\livescript.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\livescript.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\llvm.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\llvm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\lsl.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\lsl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\lua.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\lua.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\makefile.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\makefile.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\markdown.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\markdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\mathematica.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\mathematica.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\matlab.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\matlab.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\maxima.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\maxima.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\mel.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\mel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\mercury.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\mercury.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\mipsasm.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\mipsasm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\mizar.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\mizar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\mojolicious.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\mojolicious.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\monkey.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\monkey.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\moonscript.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\moonscript.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\n1ql.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\n1ql.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\nestedtext.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\nestedtext.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\nginx.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\nginx.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\nim.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\nim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\nix.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\nix.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\node-repl.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\node-repl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\nsis.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\nsis.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\objectivec.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\objectivec.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\ocaml.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\ocaml.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\openscad.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\openscad.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\oxygene.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\oxygene.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\parser3.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\parser3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\perl.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\perl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\pf.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\pf.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\pgsql.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\pgsql.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\php-template.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\php-template.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\php.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\php.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\plaintext.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\plaintext.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\pony.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\pony.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\powershell.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\powershell.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\processing.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\processing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\profile.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\profile.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\prolog.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\prolog.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\properties.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\properties.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\protobuf.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\protobuf.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\puppet.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\puppet.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\purebasic.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\purebasic.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\python-repl.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\python-repl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\python.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\python.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\q.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\q.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\qml.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\qml.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\r.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\r.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\reasonml.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\reasonml.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\rib.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\rib.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\roboconf.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\roboconf.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\routeros.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\routeros.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\rsl.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\rsl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\ruby.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\ruby.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\ruleslanguage.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\ruleslanguage.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\rust.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\rust.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\sas.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\sas.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\scala.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\scala.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\scheme.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\scheme.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\scilab.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\scilab.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\scss.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\scss.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\shell.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\shell.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\smali.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\smali.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\smalltalk.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\smalltalk.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\sml.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\sml.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\sqf.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\sqf.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\sql.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\sql.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\stan.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\stan.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\stata.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\stata.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\step21.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\step21.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\stylus.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\stylus.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\subunit.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\subunit.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\swift.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\swift.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\taggerscript.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\taggerscript.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\tap.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\tap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\tcl.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\tcl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\thrift.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\thrift.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\tp.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\tp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\twig.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\twig.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\typescript.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\typescript.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\vala.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\vala.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\vbnet.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\vbnet.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\vbscript-html.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\vbscript-html.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\vbscript.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\vbscript.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\verilog.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\verilog.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\vhdl.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\vhdl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\vim.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\vim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\wasm.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\wasm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\wren.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\wren.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\x86asm.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\x86asm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\xl.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\xl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\xml.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\xml.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\xquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\xquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\yaml.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\yaml.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\languages\\zephir.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\languages\\zephir.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\es\\package.json",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\es\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\highlight.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\highlight.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\highlight.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\highlight.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\1c.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\1c.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\abnf.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\abnf.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\accesslog.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\accesslog.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\actionscript.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\actionscript.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\ada.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\ada.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\angelscript.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\angelscript.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\apache.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\apache.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\applescript.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\applescript.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\arcade.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\arcade.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\arduino.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\arduino.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\armasm.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\armasm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\asciidoc.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\asciidoc.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\aspectj.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\aspectj.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\autohotkey.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\autohotkey.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\autoit.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\autoit.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\avrasm.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\avrasm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\awk.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\awk.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\axapta.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\axapta.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\bash.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\bash.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\basic.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\basic.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\bnf.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\bnf.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\brainfuck.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\brainfuck.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\c.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\c.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\cal.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\cal.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\capnproto.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\capnproto.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\ceylon.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\ceylon.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\clean.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\clean.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\clojure-repl.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\clojure-repl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\clojure.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\clojure.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\cmake.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\cmake.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\coffeescript.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\coffeescript.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\coq.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\coq.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\cos.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\cos.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\cpp.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\cpp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\crmsh.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\crmsh.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\crystal.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\crystal.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\csharp.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\csharp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\csp.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\csp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\css.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\css.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\d.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\d.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\dart.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\dart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\delphi.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\delphi.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\diff.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\diff.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\django.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\django.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\dns.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\dns.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\dockerfile.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\dockerfile.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\dos.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\dos.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\dsconfig.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\dsconfig.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\dts.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\dts.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\dust.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\dust.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\ebnf.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\ebnf.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\elixir.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\elixir.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\elm.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\elm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\erb.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\erb.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\erlang-repl.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\erlang-repl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\erlang.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\erlang.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\excel.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\excel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\fix.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\fix.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\flix.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\flix.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\fortran.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\fortran.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\fsharp.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\fsharp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\gams.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\gams.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\gauss.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\gauss.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\gcode.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\gcode.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\gherkin.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\gherkin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\glsl.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\glsl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\gml.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\gml.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\go.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\go.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\golo.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\golo.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\gradle.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\gradle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\graphql.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\graphql.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\groovy.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\groovy.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\haml.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\haml.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\handlebars.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\handlebars.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\haskell.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\haskell.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\haxe.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\haxe.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\hsp.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\hsp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\http.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\http.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\hy.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\hy.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\inform7.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\inform7.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\ini.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\ini.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\irpf90.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\irpf90.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\isbl.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\isbl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\java.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\java.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\javascript.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\javascript.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\jboss-cli.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\jboss-cli.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\json.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\json.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\julia-repl.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\julia-repl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\julia.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\julia.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\kotlin.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\kotlin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\lasso.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\lasso.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\latex.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\latex.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\ldif.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\ldif.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\leaf.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\leaf.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\less.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\less.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\lisp.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\lisp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\livecodeserver.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\livecodeserver.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\livescript.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\livescript.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\llvm.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\llvm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\lsl.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\lsl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\lua.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\lua.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\makefile.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\makefile.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\markdown.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\markdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\mathematica.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\mathematica.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\matlab.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\matlab.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\maxima.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\maxima.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\mel.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\mel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\mercury.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\mercury.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\mipsasm.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\mipsasm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\mizar.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\mizar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\mojolicious.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\mojolicious.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\monkey.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\monkey.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\moonscript.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\moonscript.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\n1ql.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\n1ql.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\nestedtext.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\nestedtext.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\nginx.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\nginx.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\nim.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\nim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\nix.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\nix.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\node-repl.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\node-repl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\nsis.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\nsis.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\objectivec.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\objectivec.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\ocaml.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\ocaml.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\openscad.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\openscad.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\oxygene.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\oxygene.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\parser3.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\parser3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\perl.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\perl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\pf.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\pf.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\pgsql.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\pgsql.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\php-template.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\php-template.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\php.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\php.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\plaintext.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\plaintext.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\pony.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\pony.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\powershell.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\powershell.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\processing.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\processing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\profile.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\profile.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\prolog.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\prolog.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\properties.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\properties.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\protobuf.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\protobuf.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\puppet.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\puppet.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\purebasic.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\purebasic.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\python-repl.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\python-repl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\python.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\python.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\q.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\q.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\qml.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\qml.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\r.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\r.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\reasonml.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\reasonml.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\rib.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\rib.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\roboconf.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\roboconf.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\routeros.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\routeros.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\rsl.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\rsl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\ruby.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\ruby.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\ruleslanguage.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\ruleslanguage.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\rust.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\rust.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\sas.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\sas.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\scala.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\scala.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\scheme.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\scheme.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\scilab.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\scilab.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\scss.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\scss.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\shell.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\shell.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\smali.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\smali.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\smalltalk.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\smalltalk.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\sml.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\sml.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\sqf.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\sqf.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\sql.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\sql.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\stan.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\stan.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\stata.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\stata.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\step21.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\step21.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\stylus.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\stylus.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\subunit.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\subunit.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\swift.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\swift.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\taggerscript.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\taggerscript.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\tap.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\tap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\tcl.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\tcl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\thrift.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\thrift.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\tp.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\tp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\twig.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\twig.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\typescript.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\typescript.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\vala.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\vala.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\vbnet.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\vbnet.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\vbscript-html.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\vbscript-html.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\vbscript.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\vbscript.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\verilog.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\verilog.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\vhdl.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\vhdl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\vim.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\vim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\wasm.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\wasm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\wren.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\wren.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\x86asm.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\x86asm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\xl.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\xl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\xml.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\xml.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\xquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\xquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\yaml.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\yaml.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\languages\\zephir.min.js",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\languages\\zephir.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\package.json",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\a11y-dark.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\a11y-dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\a11y-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\a11y-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\agate.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\agate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\an-old-hope.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\an-old-hope.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\androidstudio.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\androidstudio.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\arduino-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\arduino-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\arta.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\arta.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\ascetic.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\ascetic.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\atom-one-dark-reasonable.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\atom-one-dark-reasonable.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\atom-one-dark.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\atom-one-dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\atom-one-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\atom-one-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\3024.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\3024.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\apathy.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\apathy.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\apprentice.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\apprentice.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\ashes.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\ashes.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\atelier-cave-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\atelier-cave-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\atelier-cave.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\atelier-cave.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\atelier-dune-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\atelier-dune-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\atelier-dune.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\atelier-dune.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\atelier-estuary-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\atelier-estuary-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\atelier-estuary.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\atelier-estuary.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\atelier-forest-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\atelier-forest-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\atelier-forest.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\atelier-forest.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\atelier-heath-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\atelier-heath-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\atelier-heath.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\atelier-heath.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\atelier-lakeside-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\atelier-lakeside-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\atelier-lakeside.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\atelier-lakeside.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\atelier-plateau-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\atelier-plateau-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\atelier-plateau.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\atelier-plateau.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\atelier-savanna-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\atelier-savanna-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\atelier-savanna.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\atelier-savanna.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\atelier-seaside-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\atelier-seaside-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\atelier-seaside.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\atelier-seaside.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\atelier-sulphurpool-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\atelier-sulphurpool-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\atelier-sulphurpool.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\atelier-sulphurpool.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\atlas.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\atlas.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\bespin.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\bespin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\black-metal-bathory.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\black-metal-bathory.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\black-metal-burzum.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\black-metal-burzum.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\black-metal-dark-funeral.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\black-metal-dark-funeral.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\black-metal-gorgoroth.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\black-metal-gorgoroth.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\black-metal-immortal.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\black-metal-immortal.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\black-metal-khold.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\black-metal-khold.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\black-metal-marduk.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\black-metal-marduk.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\black-metal-mayhem.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\black-metal-mayhem.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\black-metal-nile.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\black-metal-nile.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\black-metal-venom.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\black-metal-venom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\black-metal.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\black-metal.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\brewer.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\brewer.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\bright.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\bright.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\brogrammer.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\brogrammer.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\brush-trees-dark.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\brush-trees-dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\brush-trees.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\brush-trees.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\chalk.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\chalk.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\circus.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\circus.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\classic-dark.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\classic-dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\classic-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\classic-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\codeschool.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\codeschool.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\colors.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\colors.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\cupcake.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\cupcake.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\cupertino.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\cupertino.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\danqing.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\danqing.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\darcula.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\darcula.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\dark-violet.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\dark-violet.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\darkmoss.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\darkmoss.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\darktooth.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\darktooth.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\decaf.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\decaf.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\default-dark.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\default-dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\default-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\default-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\dirtysea.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\dirtysea.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\dracula.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\dracula.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\edge-dark.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\edge-dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\edge-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\edge-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\eighties.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\eighties.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\embers.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\embers.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\equilibrium-dark.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\equilibrium-dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\equilibrium-gray-dark.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\equilibrium-gray-dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\equilibrium-gray-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\equilibrium-gray-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\equilibrium-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\equilibrium-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\espresso.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\espresso.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\eva-dim.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\eva-dim.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\eva.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\eva.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\flat.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\flat.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\framer.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\framer.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\fruit-soda.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\fruit-soda.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\gigavolt.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\gigavolt.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\github.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\github.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\google-dark.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\google-dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\google-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\google-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\grayscale-dark.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\grayscale-dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\grayscale-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\grayscale-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\green-screen.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\green-screen.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\gruvbox-dark-hard.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\gruvbox-dark-hard.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\gruvbox-dark-medium.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\gruvbox-dark-medium.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\gruvbox-dark-pale.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\gruvbox-dark-pale.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\gruvbox-dark-soft.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\gruvbox-dark-soft.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\gruvbox-light-hard.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\gruvbox-light-hard.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\gruvbox-light-medium.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\gruvbox-light-medium.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\gruvbox-light-soft.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\gruvbox-light-soft.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\hardcore.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\hardcore.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\harmonic16-dark.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\harmonic16-dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\harmonic16-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\harmonic16-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\heetch-dark.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\heetch-dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\heetch-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\heetch-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\helios.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\helios.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\hopscotch.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\hopscotch.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\horizon-dark.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\horizon-dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\horizon-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\horizon-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\humanoid-dark.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\humanoid-dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\humanoid-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\humanoid-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\ia-dark.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\ia-dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\ia-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\ia-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\icy-dark.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\icy-dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\ir-black.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\ir-black.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\isotope.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\isotope.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\kimber.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\kimber.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\london-tube.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\london-tube.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\macintosh.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\macintosh.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\marrakesh.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\marrakesh.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\materia.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\materia.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\material-darker.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\material-darker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\material-lighter.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\material-lighter.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\material-palenight.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\material-palenight.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\material-vivid.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\material-vivid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\material.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\material.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\mellow-purple.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\mellow-purple.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\mexico-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\mexico-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\mocha.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\mocha.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\monokai.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\monokai.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\nebula.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\nebula.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\nord.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\nord.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\nova.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\nova.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\ocean.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\ocean.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\oceanicnext.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\oceanicnext.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\one-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\one-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\onedark.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\onedark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\outrun-dark.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\outrun-dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\papercolor-dark.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\papercolor-dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\papercolor-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\papercolor-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\paraiso.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\paraiso.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\pasque.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\pasque.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\phd.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\phd.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\pico.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\pico.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\pop.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\pop.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\porple.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\porple.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\qualia.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\qualia.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\railscasts.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\railscasts.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\rebecca.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\rebecca.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\ros-pine-dawn.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\ros-pine-dawn.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\ros-pine-moon.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\ros-pine-moon.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\ros-pine.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\ros-pine.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\sagelight.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\sagelight.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\sandcastle.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\sandcastle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\seti-ui.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\seti-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\shapeshifter.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\shapeshifter.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\silk-dark.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\silk-dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\silk-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\silk-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\snazzy.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\snazzy.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\solar-flare-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\solar-flare-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\solar-flare.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\solar-flare.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\solarized-dark.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\solarized-dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\solarized-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\solarized-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\spacemacs.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\spacemacs.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\summercamp.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\summercamp.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\summerfruit-dark.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\summerfruit-dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\summerfruit-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\summerfruit-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\synth-midnight-terminal-dark.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\synth-midnight-terminal-dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\synth-midnight-terminal-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\synth-midnight-terminal-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\tango.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\tango.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\tender.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\tender.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\tomorrow-night.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\tomorrow-night.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\tomorrow.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\tomorrow.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\twilight.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\twilight.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\unikitty-dark.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\unikitty-dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\unikitty-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\unikitty-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\vulcan.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\vulcan.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\windows-10-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\windows-10-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\windows-10.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\windows-10.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\windows-95-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\windows-95-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\windows-95.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\windows-95.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\windows-high-contrast-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\windows-high-contrast-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\windows-high-contrast.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\windows-high-contrast.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\windows-nt-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\windows-nt-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\windows-nt.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\windows-nt.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\woodland.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\woodland.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\xcode-dusk.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\xcode-dusk.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\base16\\zenburn.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\base16\\zenburn.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\brown-paper.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\brown-paper.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\brown-papersq.png",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\brown-papersq.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\codepen-embed.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\codepen-embed.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\color-brewer.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\color-brewer.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\dark.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\default.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\devibeans.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\devibeans.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\docco.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\docco.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\far.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\far.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\felipec.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\felipec.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\foundation.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\foundation.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\github-dark-dimmed.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\github-dark-dimmed.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\github-dark.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\github-dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\github.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\github.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\gml.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\gml.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\googlecode.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\googlecode.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\gradient-dark.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\gradient-dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\gradient-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\gradient-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\grayscale.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\grayscale.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\hybrid.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\hybrid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\idea.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\idea.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\intellij-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\intellij-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\ir-black.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\ir-black.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\isbl-editor-dark.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\isbl-editor-dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\isbl-editor-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\isbl-editor-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\kimbie-dark.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\kimbie-dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\kimbie-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\kimbie-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\lightfair.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\lightfair.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\lioshi.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\lioshi.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\magula.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\magula.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\mono-blue.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\mono-blue.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\monokai-sublime.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\monokai-sublime.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\monokai.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\monokai.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\night-owl.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\night-owl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\nnfx-dark.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\nnfx-dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\nnfx-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\nnfx-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\nord.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\nord.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\obsidian.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\obsidian.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\panda-syntax-dark.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\panda-syntax-dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\panda-syntax-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\panda-syntax-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\paraiso-dark.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\paraiso-dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\paraiso-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\paraiso-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\pojoaque.jpg",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\pojoaque.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\pojoaque.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\pojoaque.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\purebasic.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\purebasic.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\qtcreator-dark.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\qtcreator-dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\qtcreator-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\qtcreator-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\rainbow.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\rainbow.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\routeros.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\routeros.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\school-book.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\school-book.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\shades-of-purple.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\shades-of-purple.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\srcery.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\srcery.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\stackoverflow-dark.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\stackoverflow-dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\stackoverflow-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\stackoverflow-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\sunburst.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\sunburst.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\tokyo-night-dark.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\tokyo-night-dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\tokyo-night-light.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\tokyo-night-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\tomorrow-night-blue.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\tomorrow-night-blue.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\tomorrow-night-bright.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\tomorrow-night-bright.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\vs.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\vs.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\vs2015.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\vs2015.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\xcode.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\xcode.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\highlight.js\\styles\\xt256.min.css",
+      "PackagePath": "staticwebassets\\lib\\highlight.js\\styles\\xt256.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\jkanban\\.gitattributes",
+      "PackagePath": "staticwebassets\\lib\\jkanban\\.gitattributes"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\jkanban\\.gitignore",
+      "PackagePath": "staticwebassets\\lib\\jkanban\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\jkanban\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\jkanban"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\jkanban\\README.md",
+      "PackagePath": "staticwebassets\\lib\\jkanban\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\jkanban\\dist\\jkanban.css",
+      "PackagePath": "staticwebassets\\lib\\jkanban\\dist\\jkanban.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\jkanban\\dist\\jkanban.js",
+      "PackagePath": "staticwebassets\\lib\\jkanban\\dist\\jkanban.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\jkanban\\dist\\jkanban.min.css",
+      "PackagePath": "staticwebassets\\lib\\jkanban\\dist\\jkanban.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\jkanban\\dist\\jkanban.min.js",
+      "PackagePath": "staticwebassets\\lib\\jkanban\\dist\\jkanban.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\jkanban\\example\\index.html",
+      "PackagePath": "staticwebassets\\lib\\jkanban\\example\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\jkanban\\jkanban.css",
+      "PackagePath": "staticwebassets\\lib\\jkanban\\jkanban.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\jkanban\\jkanban.js",
+      "PackagePath": "staticwebassets\\lib\\jkanban\\jkanban.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\jkanban\\package-lock.json",
+      "PackagePath": "staticwebassets\\lib\\jkanban\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\jkanban\\package.json",
+      "PackagePath": "staticwebassets\\lib\\jkanban\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\README.md",
+      "PackagePath": "staticwebassets\\lib\\katex\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\contrib\\auto-render.js",
+      "PackagePath": "staticwebassets\\lib\\katex\\contrib\\auto-render.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\contrib\\auto-render.min.js",
+      "PackagePath": "staticwebassets\\lib\\katex\\contrib\\auto-render.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\contrib\\auto-render.mjs",
+      "PackagePath": "staticwebassets\\lib\\katex\\contrib\\auto-render.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\contrib\\copy-tex.js",
+      "PackagePath": "staticwebassets\\lib\\katex\\contrib\\copy-tex.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\contrib\\copy-tex.min.js",
+      "PackagePath": "staticwebassets\\lib\\katex\\contrib\\copy-tex.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\contrib\\copy-tex.mjs",
+      "PackagePath": "staticwebassets\\lib\\katex\\contrib\\copy-tex.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\contrib\\mathtex-script-type.js",
+      "PackagePath": "staticwebassets\\lib\\katex\\contrib\\mathtex-script-type.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\contrib\\mathtex-script-type.min.js",
+      "PackagePath": "staticwebassets\\lib\\katex\\contrib\\mathtex-script-type.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\contrib\\mathtex-script-type.mjs",
+      "PackagePath": "staticwebassets\\lib\\katex\\contrib\\mathtex-script-type.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\contrib\\mhchem.js",
+      "PackagePath": "staticwebassets\\lib\\katex\\contrib\\mhchem.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\contrib\\mhchem.min.js",
+      "PackagePath": "staticwebassets\\lib\\katex\\contrib\\mhchem.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\contrib\\mhchem.mjs",
+      "PackagePath": "staticwebassets\\lib\\katex\\contrib\\mhchem.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\contrib\\render-a11y-string.js",
+      "PackagePath": "staticwebassets\\lib\\katex\\contrib\\render-a11y-string.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\contrib\\render-a11y-string.min.js",
+      "PackagePath": "staticwebassets\\lib\\katex\\contrib\\render-a11y-string.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\contrib\\render-a11y-string.mjs",
+      "PackagePath": "staticwebassets\\lib\\katex\\contrib\\render-a11y-string.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_AMS-Regular.ttf",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_AMS-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_AMS-Regular.woff",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_AMS-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_AMS-Regular.woff2",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_AMS-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Caligraphic-Bold.ttf",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Caligraphic-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Caligraphic-Bold.woff",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Caligraphic-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Caligraphic-Bold.woff2",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Caligraphic-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Caligraphic-Regular.ttf",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Caligraphic-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Caligraphic-Regular.woff",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Caligraphic-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Caligraphic-Regular.woff2",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Caligraphic-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Fraktur-Bold.ttf",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Fraktur-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Fraktur-Bold.woff",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Fraktur-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Fraktur-Bold.woff2",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Fraktur-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Fraktur-Regular.ttf",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Fraktur-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Fraktur-Regular.woff",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Fraktur-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Fraktur-Regular.woff2",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Fraktur-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Main-Bold.ttf",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Main-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Main-Bold.woff",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Main-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Main-Bold.woff2",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Main-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Main-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Main-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Main-BoldItalic.woff",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Main-BoldItalic.woff"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Main-BoldItalic.woff2",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Main-BoldItalic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Main-Italic.ttf",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Main-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Main-Italic.woff",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Main-Italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Main-Italic.woff2",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Main-Italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Main-Regular.ttf",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Main-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Main-Regular.woff",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Main-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Main-Regular.woff2",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Main-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Math-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Math-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Math-BoldItalic.woff",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Math-BoldItalic.woff"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Math-BoldItalic.woff2",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Math-BoldItalic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Math-Italic.ttf",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Math-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Math-Italic.woff",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Math-Italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Math-Italic.woff2",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Math-Italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_SansSerif-Bold.ttf",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_SansSerif-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_SansSerif-Bold.woff",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_SansSerif-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_SansSerif-Bold.woff2",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_SansSerif-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_SansSerif-Italic.ttf",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_SansSerif-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_SansSerif-Italic.woff",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_SansSerif-Italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_SansSerif-Italic.woff2",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_SansSerif-Italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_SansSerif-Regular.ttf",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_SansSerif-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_SansSerif-Regular.woff",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_SansSerif-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_SansSerif-Regular.woff2",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_SansSerif-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Script-Regular.ttf",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Script-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Script-Regular.woff",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Script-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Script-Regular.woff2",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Script-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Size1-Regular.ttf",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Size1-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Size1-Regular.woff",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Size1-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Size1-Regular.woff2",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Size1-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Size2-Regular.ttf",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Size2-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Size2-Regular.woff",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Size2-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Size2-Regular.woff2",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Size2-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Size3-Regular.ttf",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Size3-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Size3-Regular.woff",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Size3-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Size3-Regular.woff2",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Size3-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Size4-Regular.ttf",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Size4-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Size4-Regular.woff",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Size4-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Size4-Regular.woff2",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Size4-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Typewriter-Regular.ttf",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Typewriter-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Typewriter-Regular.woff",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Typewriter-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\fonts\\KaTeX_Typewriter-Regular.woff2",
+      "PackagePath": "staticwebassets\\lib\\katex\\fonts\\KaTeX_Typewriter-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\katex.css",
+      "PackagePath": "staticwebassets\\lib\\katex\\katex.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\katex.js",
+      "PackagePath": "staticwebassets\\lib\\katex\\katex.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\katex.min.css",
+      "PackagePath": "staticwebassets\\lib\\katex\\katex.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\katex.min.js",
+      "PackagePath": "staticwebassets\\lib\\katex\\katex.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\katex\\katex.mjs",
+      "PackagePath": "staticwebassets\\lib\\katex\\katex.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\quill\\examples\\bubble.html",
+      "PackagePath": "staticwebassets\\lib\\quill\\examples\\bubble.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\quill\\examples\\full.html",
+      "PackagePath": "staticwebassets\\lib\\quill\\examples\\full.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\quill\\examples\\snow.html",
+      "PackagePath": "staticwebassets\\lib\\quill\\examples\\snow.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\quill\\quill.bubble.css",
+      "PackagePath": "staticwebassets\\lib\\quill\\quill.bubble.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\quill\\quill.core.css",
+      "PackagePath": "staticwebassets\\lib\\quill\\quill.core.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\quill\\quill.core.js",
+      "PackagePath": "staticwebassets\\lib\\quill\\quill.core.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\quill\\quill.js",
+      "PackagePath": "staticwebassets\\lib\\quill\\quill.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\quill\\quill.min.js",
+      "PackagePath": "staticwebassets\\lib\\quill\\quill.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\quill\\quill.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\quill\\quill.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\nndsfdsfd\\ITSM\\ITSM\\wwwroot\\lib\\quill\\quill.snow.css",
+      "PackagePath": "staticwebassets\\lib\\quill\\quill.snow.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ITSM.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ITSM.props",
+      "PackagePath": "build\\ITSM.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ITSM.props",
+      "PackagePath": "buildMultiTargeting\\ITSM.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ITSM.props",
+      "PackagePath": "buildTransitive\\ITSM.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
