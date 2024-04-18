@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    <partial name="_StylesPartial" />
+</head>
+<body>
+    
+    <div class="container-fluid d-flex">
+        <partial name="_SidebarPartial" />
+        <partial name="_NavbarPartial" />
+
+        <main role="main" class="w-100 h-100">
+            <div class="p-4">
+            @RenderBody()
+            </div>
+        </main>
+
+        @*<partial name="_FooterPartial" />*@
+    </div>
+    
+    <partial name="_AlertsPartial" />
+
+    <partial name="_ScriptsPartial" />
+    <partial name="_ValidationScriptsPartial" />
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

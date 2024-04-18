@@ -1,0 +1,73 @@
+﻿@model HomeKanbanViewModel
+
+@using Microsoft.AspNetCore.Identity;
+@using Newtonsoft.Json;
+
+@inject UserManager<IdentityUser> UserManager
+@inject SignInManager<IdentityUser> SignInManager
+
+@{
+    ViewData["Title"] = "Home Page";
+
+    if (Model.Project != null)
+    {
+        var selectedItem = @Model.Projects.First(x => x.Value == Model.Project.Id.ToString());
+        selectedItem.Selected = true;
+    }
+}
+
+@if (SignInManager.IsSignedIn(User))
+{
+<div id="myKanban"></div>
+
+<form method="post" class="mt-5" style="position: fixed; left: 50%; transform: translate(-50%, 0); height: fit-content;">
+    <div class="row d-flex justify-content-center">
+        <div class="col-3 text-center">
+
+            <div class="form-floating mb-3 mx-auto">
+                <select style="width: 200px;" id="projectId" name="projectId" class="form-select mb-3"
+                    aria-label="Project select" asp-items="@Model.Projects">
+                    <option value="@null">Not assigned</option>
+                </select>
+                <label for="projectId">Project</label>
+            </div>
+
+            <button hidden id="change" style="width: 200px;" type="submit" class="btn btn-primary rounded-0 px-3 mb-3"></button>
+            <button id="save" type="button" style="width: 200px;" class="btn btn-primary rounded-0 px-3 d-none">Save changes</button>
+        </div>
+    </div>
+</form>
+
+<script src="~/lib/jkanban/dist/jkanban.min.js"></script>
+<script src="~/js/home.js"></script>
+<script type="text/javascript">
+
+    // function from home.js
+    generateBoard(@Html.Raw(JsonConvert.SerializeObject(Model)));
+
+</script>
+}
+
+else
+{
+<h2 class="text-center mb-5">IT System Management project.</h2>
+
+<div class="row d-flex justify-content-center">
+    <div class="col-6 py-3 shadow">
+        <p>ITSM Project is a final project for ASP.NET MVC classes. </p>
+        <p>To log in use one of the accounts listed below:</p>
+        <ul class="list-group">
+            <li class="list-group-item">
+                Admin user <br>
+                Email: admin@itsm.com<br>
+                Password: SuperSecret@1
+            </li>
+            <li class="list-group-item">
+                Employee user <br>
+                Email: employee@itsm.com <br>
+                Password: SuperSecret@1
+            </li>
+        </ul>
+    </div>
+</div>
+}
